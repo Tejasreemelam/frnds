@@ -1,0 +1,12 @@
+.id{
+    text-align: center;
+    font-size:100px;
+    margin-top:200px;
+    color: blue;
+}
+body{
+    background-image: linear-gradient(gray,black);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}

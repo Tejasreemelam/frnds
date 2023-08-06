@@ -1,0 +1,53 @@
+.body{
+    background-image: linear-gradient(cyan, chartreuse,cyan);
+    
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    
+}
+
+.header{
+    text-align: center;
+    font-size: 40px;
+    margin-left: 50px;
+   
+}
+.id1
+{
+    text-align: center;
+    font-size: 30px;
+    font-family:sans-serif;
+}
+.id{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+}
+.id:hover{
+    transform:scale3d(0.2,0.2,0.2) ;
+}
+.grid
+{
+   align-content: center;
+   margin-left: 500px;
+}
+
+.id3 {
+    width: 400px;
+    height: 100px;
+    background-color:darkgoldenrod;
+    transform: rotateY(50deg);
+    margin-left: 700px;
+    text-align: center;
+}
+.id3:hover{
+        transform:scale(0.5,0.5);
+        background-color:chartreuse;
+    }
+   
+
+
+  
